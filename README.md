@@ -1,5 +1,7 @@
 # Jackett
 
+> The repository has been moved to [https://gitlab.jmk.hu/docker/media/jackett](https://gitlab.jmk.hu/docker/media/jackett).
+
 Simple docker image for Jackett without any bloat, built on the official debian image. Jackett runs as user `jackett` with `uid` and `gid` `1000` and listens on port `9117`.
 
 ## Usage
